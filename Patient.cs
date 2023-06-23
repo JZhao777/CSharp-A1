@@ -1,4 +1,6 @@
-﻿using System;
+//Name: Jing Zhao
+//C# Assignment 1
+using System;
 namespace Csharp_Assignment1
 {
     public class Patient
