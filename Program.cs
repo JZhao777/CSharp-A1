@@ -1,4 +1,5 @@
-﻿using System;
+//Name: Jing Zhao
+using System;
 
 namespace Csharp_Assignment1
 {
